@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="main-head">
+  <div class="main-head__logo">LOGO</div>
+  <div class="main-head__menu">label label label</div>
+  <form class="main-head__sign-form">
+    <div class="sign-form__content">
+    <imput class="sign-form__login"></imput>
+    <imput class="sign-form__password"></imput>
+    <button class="sign-form__button">SIGN</button>
+  </div>
+  </form>
+<div class="foto-text">
+  <div class="foto-text__header">Our Mission</div>
+  <div class="foto-text__content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</div>
+</div>
+</header>
+<div class="about">
+  <div class="about__header">About</div>
+  <div class="about__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown.</div>
+</div>
+<div class="team">
+  <div class="team__header">Team</div>
+  <div class="team-card">
+    <div class="team-card__foto"></div>
+    <div class="team-card__name">Jogh Doe</div>
+    <div class="team-card__post">Founder and Ceo</div>
+  </div>
+  <div class="team-card">
+    <div class="team-card__foto"></div>
+    <div class="team-card__name">Jogh Doe</div>
+    <div class="team-card__post">Co Founder</div>
+  </div>
+  <div class="team-card">
+    <div class="team-card__foto"></div>
+    <div class="team-card__name">Jogh Doe</div>
+    <div class="team-card__post">Investor</div>
+  </div>
+  <button class="work">work with us</button>
+</div>
+<div class="map-location">вставка Google map</div>
+</body>
+<footer class="footer">
+  <div class="footer__menu">about faq work with us</div>
+  <div class="row fontawesome__icon">
+    <i class="fa fa-envelope-o" aria-hidden="true"></i>
+    <i class="fa fa-facebook" aria-hidden="true"></i>
+    <i class="fa fa-twitter" aria-hidden="true"></i>
+  </div>
+  <div class="footer__copyrights">© Сompany.LLC 2014</div>
+</div>
+</footer>
+</html>
